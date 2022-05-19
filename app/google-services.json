@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538131358610",
+    "project_id": "just4u-e7191",
+    "storage_bucket": "just4u-e7191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538131358610:android:c10bb26bbe8f41b407974b",
+        "android_client_info": {
+          "package_name": "com.just4u.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538131358610-23h785fr6mcgorklbi7gts6a59avlnv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihIhHU4Csnk0vpORrBOVfySRB4bTCgAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538131358610-23h785fr6mcgorklbi7gts6a59avlnv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
